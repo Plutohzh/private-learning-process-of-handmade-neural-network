@@ -5,6 +5,9 @@ Watch his videos plz!!!!!!!!
 Watch his videos plz!!!!!!!!
 Watch his videos plz!!!!!!!!
 
+creatdataandplot.py is vital.
+
+
 https://github.com/JunlingWang/Neuronetwork_with_python/tree/main
 https://space.bilibili.com/1570063857
 https://www.bilibili.com/video/BV1aH4y1d7m5
