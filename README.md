@@ -7,6 +7,7 @@ Watch his videos plz!!!!!!!!
 
 creatdataandplot.py is vital.
 
+There is no 1.xxx.py XD.
 
 https://github.com/JunlingWang/Neuronetwork_with_python/tree/main
 https://space.bilibili.com/1570063857
